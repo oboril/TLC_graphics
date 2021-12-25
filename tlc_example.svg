@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="45mm" height="110mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
-<rect x="5mm" y="5mm" width="35mm" height="100mm" fill="none" stroke="#777777" stroke-width="0.3mm"/>
+<rect x="5mm" y="5mm" width="35mm" height="100mm" fill="none" stroke="#000000" stroke-width="0.3mm"/>
 <line x1="5mm" y1="90mm" x2="40mm" y2="90mm" stroke-width="0.3mm" stroke="#777777" />
 <line x1="5mm" y1="15mm" x2="40mm" y2="15mm" stroke-width="0.3mm" stroke="#777777" />
 <ellipse cx="10.833333333333332mm" cy="45mm" rx="3.0mm" ry="2.5mm" fill="#555555" />

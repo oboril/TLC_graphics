@@ -73,7 +73,7 @@ class TLC:
         elements = []
         elements.append(
             f'<rect x="5mm" y="5mm" width="{self.width}mm" height="{self.height}mm" '
-             'fill="none" stroke="#777777" stroke-width="0.3mm"/>')
+             'fill="none" stroke="#000000" stroke-width="0.3mm"/>')
 
         elements.append(
             f'<line x1="5mm" y1="{5+self.height-self.start}mm"'

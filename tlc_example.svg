@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="45mm" height="110mm" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+<rect x="5mm" y="5mm" width="35mm" height="100mm" fill="none" stroke="#777777" stroke-width="0.3mm"/>
+<line x1="5mm" y1="95mm" x2="40mm" y2="95mm" stroke-width="0.3mm" stroke="#777777" />
+<line x1="5mm" y1="20mm" x2="40mm" y2="20mm" stroke-width="0.3mm" stroke="#777777" />
+<ellipse cx="10.833333333333332mm" cy="50mm" rx="3.0mm" ry="2.5mm" fill="#555555" />
+<ellipse cx="22.5mm" cy="50mm" rx="2.5mm" ry="2.5mm" fill="#555555" />
+<ellipse cx="22.5mm" cy="67mm" rx="2.5mm" ry="2.0mm" fill="#555555" />
+<text x="10.833333333333332mm" y="100.0mm" font-size="7pt" dominant-baseline="middle" text-anchor="middle">
+<tspan x="10.833333333333332mm" dy="0.0em">Reactant</tspan>
+</text>
+<text x="22.5mm" y="100.0mm" font-size="7pt" dominant-baseline="middle" text-anchor="middle">
+<tspan x="22.5mm" dy="0.0em">Cospot</tspan>
+</text>
+<text x="34.166666666666664mm" y="100.0mm" font-size="7pt" dominant-baseline="middle" text-anchor="middle">
+<tspan x="34.166666666666664mm" dy="0.0em">Product</tspan>
+</text>
+</svg>
